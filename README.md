@@ -1,2 +1,2 @@
 # belt_zip
-BeltZip!
+BeltZip! Based on a combination of [this](https://www.reddit.com/r/factorio/comments/6fqvca/i_present_to_you_the_possibly_completely_useless/) [and this](https://www.reddit.com/r/factorio/comments/72503i/next_level_belt_braiding/).
